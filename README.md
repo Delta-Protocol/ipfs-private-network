@@ -1,4 +1,4 @@
-# ipfs-private-network
+# <p stytle="align:center">ipfs-private-network</p>
 
 ## Setup Instructions
 
